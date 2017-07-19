@@ -1,0 +1,76 @@
+Simplificacion Logica
+    Operaciones y expresiones booleanas
+        Son las matemáticas de los sistemas digitales
+        Conocimientos básicos del álgebra booleanas
+        Suma Boleana OR
+        Multiplicación Booleana AND
+        Una variable es un símbolo
+        El complemento es el inverso de la variable
+        Un literal es una variable
+        Término suma es una suma de literales
+        Término producto es un producto de literales
+        
+     
+    Leyes y reglas del álgebra de Boole
+        
+        Leyes conmutativas
+        Leyes asociativas
+        ley distributiva
+        A + 0 = A
+        A + 1 = 1
+        A · 0 = 0
+        A · 1 = A
+        A + A = A
+        A + A' =1
+        A ·A = A
+        A · A' = 0
+        A'' = A
+        A + AB = A
+        A + A'B = A + B
+        (A + B)(A + C) = A + BC
+        
+    Teoremas de Demorgan
+    
+       DeMorgan matemático que conoció a Boole
+       Propuso dos teoremas
+       NAND y Negativa-OR
+       NOR y negativa-AND
+       (XY)' = X' + Y'
+       (X + Y)' = X'Y'
+    
+    Análisis booleano de los circuitos lógicos
+    
+        Cuando se determina una expresión booleana se construye una tabla de verdad
+        La tabla de verdad representa un circuito lógico
+        2n posibles combinaciones de valores
+        Evaluación de la expresión
+        
+    
+    Simplificación  mediante el álgebra de Boole
+    
+        Se necesita saber las leyes de Boole
+        Tambien los Teoremas de Morgan
+        
+    
+    Formas estándar de las expresiones booleanas
+    
+        Suma de Productos
+        Domino de una expresión
+        Implementacion AND-OR de una suma de productos
+        Implementación NAND-NAND de una suma de productos
+        Conversion de una expresión general
+        Formato de suma de productos
+        Forma estándar de la suma de productos
+        Producto de Sumas
+        Forma estándar del producto de sumas
+        
+        
+    Expresiones booleanas y tablas de verdad
+        Todas las expresiones se pueden convertir
+        Determinacion de expresiones a partir de una tabla de verdad
+        
+        
+        
+        
+        
+  
